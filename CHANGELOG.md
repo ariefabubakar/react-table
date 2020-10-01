@@ -1,9 +1,8 @@
----
-name: Changelog
-route: /changelog
----
-
 # React Table Changelog
+
+## 7.0.5
+
+- Added semantic release support. So no more changelog entries here! See ya!
 
 ## 7.0.4
 
